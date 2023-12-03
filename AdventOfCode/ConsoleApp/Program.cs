@@ -1,6 +1,6 @@
 ﻿
-using ConsoleApp.AoC2;
+using ConsoleApp.AoC3;
 
 Console.WriteLine("Start AoC Program"); 
 
-AoC02.Part2();
+AoC03.Part1();
